@@ -21,3 +21,8 @@ samsung-com.112.2o7.net
 stat.tiara.g.daum.net 
 t1.int.daumcdn.net 
 t1.wg2vgaja.kgslb.com 
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+widgets.pinterest.com
+business.samsungusa.com
