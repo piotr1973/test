@@ -251,3 +251,6 @@ volumio.lpages.co
 static.cloud.coveo.com
 ebd.cda.pl
 go.onelink.me
+static.hotjar.com
+cdn.onesignal.com
+p.typekit.net
