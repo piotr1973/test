@@ -254,3 +254,4 @@ go.onelink.me
 static.hotjar.com
 cdn.onesignal.com
 p.typekit.net
+noscript.net
