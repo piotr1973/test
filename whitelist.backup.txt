@@ -257,3 +257,4 @@ p.typekit.net
 noscript.net
 kalwat.duckdns.org
 kalwat2.duckdns.org
+icanhazip.com
