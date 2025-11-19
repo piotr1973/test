@@ -258,3 +258,7 @@ noscript.net
 kalwat.duckdns.org
 kalwat2.duckdns.org
 icanhazip.com
+checkip.amazonaws.com
+socialblade.com
+socialcounts.org
+www.whatsmyip.org
